@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Paloma",
+        "last_name": "Kitchen",
+        "email": "pkitchen0@163.com",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Reider",
+        "last_name": "Tomaszewski",
+        "email": "rtomaszewski1@xing.com",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Dolley",
+        "last_name": "Doogue",
+        "email": "ddoogue2@furl.net",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Johnathon",
+        "last_name": "MacKowle",
+        "email": "jmackowle3@washingtonpost.com",
+        "gender": "Polygender"
+    },
+    {
+        "id": 5,
+        "first_name": "Rosa",
+        "last_name": "Fellos",
+        "email": "rfellos4@newyorker.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Jan",
+        "last_name": "Elson",
+        "email": "jelson5@ucoz.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Isabelita",
+        "last_name": "Aylen",
+        "email": "iaylen6@simplemachines.org",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Odella",
+        "last_name": "Blackwood",
+        "email": "oblackwood7@networkadvertising.org",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Claire",
+        "last_name": "Alred",
+        "email": "calred8@theglobeandmail.com",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Bearnard",
+        "last_name": "Docwra",
+        "email": "bdocwra9@godaddy.com",
+        "gender": "Male"
+    }
+]
